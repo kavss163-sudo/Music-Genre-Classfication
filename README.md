@@ -1,4 +1,5 @@
 🎵 Music Genre Classification
+
 📌 Overview
 
 This project predicts the genre of music tracks using deep learning.
@@ -13,6 +14,7 @@ Streamlit app for uploading audio and getting predictions.
 Displays waveform, spectrogram, and confidence scores.
 
 ⚙️ Installation
+
 pip install -r requirements.txt
 
 ▶️ Usage
